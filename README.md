@@ -122,13 +122,15 @@ python -m pytest tests/ -v
 ---
 
 ---
+
 ## 🎯 Why I Built This
 
 Built this project to strengthen Python fundamentals, CLI application development, modular programming, and software testing practices.
 
 The goal was to create a clean, reusable, and customizable command-line utility while improving project organization and testing workflows.
+
 ---
 
-## 📝 License
+## 📄 License
 
 MIT License — free to use and modify.
