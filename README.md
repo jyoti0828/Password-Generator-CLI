@@ -1,6 +1,6 @@
 # 🔐 Password Generator CLI Tool
 
-A fully functional, modular command-line tool to generate secure and customizable passwords — built with Python.
+A modular command-line application for generating secure and customizable passwords using Python.
 
 ---
 
